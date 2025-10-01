@@ -295,6 +295,11 @@
     "nama_icd_indo":"Diare dan gastroenteritis oleh penyebab penyakit menular"
   },
   {
+    "kode_icd":"A09.0",
+    "nama_icd":"Other and unspecified gastroenteritis and colitis of infectious origin",
+    "nama_icd_indo":"Lainnya dan tidak spesifik gastroenteritis dan colitis oleh penyebab penyakit menular"
+  },
+  {
     "kode_icd":"A15.0",
     "nama_icd":"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",
     "nama_icd_indo":"TBC paru-paru , hasil konfirmasi mikroskop pada sputum dengan atau tanpa cultur"
@@ -14680,6 +14685,11 @@
     "nama_icd_indo":"Glaukoma tersangka"
   },
   {
+    "kode_icd":"H40.05",
+    "nama_icd":"Ocular Hypertension",
+    "nama_icd_indo":"Hipertensi Okular"
+  },
+  {
     "kode_icd":"H40.1",
     "nama_icd":"Primary open-angle glaucoma",
     "nama_icd_indo":"Primary open- angle glaucoma"
@@ -20908,6 +20918,11 @@
     "kode_icd":"L02.3",
     "nama_icd":"Cutaneous abscess, furuncle and carbuncle of buttock",
     "nama_icd_indo":"Abses kulit, furunkel dan inas pantat"
+  },
+  {
+    "kode_icd":"L02.31",
+    "nama_icd":"Cutaneous abscess, furuncle and carbuncle of gluteal region",
+    "nama_icd_indo":"Abses kulit, furunkel dan inas gluteal"
   },
   {
     "kode_icd":"L02.4",
@@ -52344,4 +52359,5 @@
     "nama_icd":"Dependence on unspecified enabling machine and device",
     "nama_icd_indo":"Ketergantungan pada mesin dan perangkat yang memungkinkan yang tidak spesifik"
   }
+
 ]
